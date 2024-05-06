@@ -1,4 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![1](https://github.com/robertocandales/autocomplete/assets/61159123/9db95012-a1cf-4a01-bd9a-7762ea852c13)
+![2](https://github.com/robertocandales/autocomplete/assets/61159123/4657b912-7209-4744-88a4-9f51a2620ebe)
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/robertocandales/autocomplete/assets/61159123/9db95012-a1cf-4a01-bd9a-7762ea852c13" alt="Image 1" width="45%">
+  <img src="https://github.com/robertocandales/autocomplete/assets/61159123/4657b912-7209-4744-88a4-9f51a2620ebe" alt="Image 2" width="45%">
+ </div>
 
 ## Getting Started
 
