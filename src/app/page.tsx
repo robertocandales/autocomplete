@@ -8,7 +8,7 @@ export default function Home() {
       <h1>Auto Complete Component</h1>
       <AutoComplete
         fetchUrl='https://jsonplaceholder.typicode.com/todos'
-        placeholder='Search TODOS'
+        placeholder='Search TODO'
       />
     </main>
   );
