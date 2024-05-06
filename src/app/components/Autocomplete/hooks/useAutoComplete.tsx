@@ -54,7 +54,7 @@ export const useAutoComplete = (fetchUrl: string) => {
         }
         const data: ITodoResponse[] = await response.json();
         setFilteredOptions(data.map((item) => ({ id: item.id, title: item.title })));
-        setShowDropdown(data.length > 0 && debouncedInputValue !== '');
+        setShowDropdown(true);
       } catch (error) {
         console.error('Error fetching options:', error);
       } finally {
