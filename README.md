@@ -83,7 +83,21 @@ To use the **AutoComplete** component, provide the following props:
 
 Example:
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   javascriptCopy codeimport React from 'react';  import AutoComplete from './AutoComplete';  const MyComponent = () => {    return (    );  };  export default MyComponent;   `
+```
+import AutoComplete from './AutoComplete';
+
+
+const MyComponent = () => {
+  return (
+    <div>
+      <AutoComplete fetchUrl="https://api.example.com/options" placeholder="Search..." />
+    </div>
+  );
+};
+
+
+export default MyComponent;
+```
 
 Customization
 -------------
