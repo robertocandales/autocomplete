@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; flex-direction: column;">
   <img src="https://github.com/robertocandales/autocomplete/assets/61159123/7438d574-80af-4ade-a2be-fba86c631d6d" alt="Image 1" width="45%">
   <img src="https://github.com/robertocandales/autocomplete/assets/61159123/4657b912-7209-4744-88a4-9f51a2620ebe" alt="Image 2" width="45%">
  </div>
