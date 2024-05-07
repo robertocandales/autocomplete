@@ -1,8 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 <div style="display: flex; flex-direction: column;">
-  <img src="https://github.com/robertocandales/autocomplete/assets/61159123/cf907a28-dac0-4d25-8cd3-7c2a97c38e85" alt="Image 1" width="45%" style="height: 700px;" >
-  <img src="https://github.com/robertocandales/autocomplete/assets/61159123/4657b912-7209-4744-88a4-9f51a2620ebe" alt="Image 2" width="45%" style="height: 700px;">
+  <img src="https://github.com/robertocandales/autocomplete/assets/61159123/cf907a28-dac0-4d25-8cd3-7c2a97c38e85" alt="Image 1" width="45%" style="height: 740px;" >
+  <img src="https://github.com/robertocandales/autocomplete/assets/61159123/4657b912-7209-4744-88a4-9f51a2620ebe" alt="Image 2" width="45%" style="height: 740px;">
  </div>
 
 ## Getting Started
